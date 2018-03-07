@@ -1,7 +1,6 @@
 # Exercises-Git-and-GitHub
 exercise - repo
 LUL - Kappa
-
 koga
-
- kude zashto
+kude zashto
+KOGA
