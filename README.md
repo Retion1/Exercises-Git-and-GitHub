@@ -4,3 +4,4 @@ LUL - Kappa
 kude zashto
 KOGA
 HEHE
+Ne
