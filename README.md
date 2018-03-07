@@ -2,4 +2,6 @@
 exercise - repo
 LUL - Kappa
 
-sddddd
+koga
+
+ kude zashto
